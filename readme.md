@@ -1,0 +1,1 @@
+This todo list is a code along project for Colt Steele's web bootcamp. The project's purpose is to use jQuery and incorporate css.
